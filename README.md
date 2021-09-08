@@ -1,6 +1,6 @@
 # Face-Mask-Detection
-Face Mask Detection using Machine Learning Algorithm(implementing with existing dataset and by creating own dataset)
-This project is implemented in Python. 
+Face Mask Detection using Machine Learning Algorithm(implementing with existing dataset and by creating own dataset).This project is implemented in Python. 
+
 1. With Existing Dataset
 
    Dataset for this can be downloaded from kaggle- https://www.kaggle.com/search?q=face+mask+detection
